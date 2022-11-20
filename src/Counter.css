@@ -1,0 +1,38 @@
+  h1 { color: #1746A2;
+    font-family: "Great Vibes", cursive;
+    font-size: 50px;
+    line-height: 80px;
+    font-weight: normal;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    text-align: center;
+    text-shadow: 0 1px 1px #fff; }
+  
+    h2 { color: #5F9DF7;
+      font-family: 'Julius Sans One', sans-serif;
+      font-size: 30px;
+      font-weight: bold;
+      line-height: 32px;
+      margin: 0 0 24px; }
+  
+    p { color: #111;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 19px;
+      font-weight: 300;
+      line-height: 20px;
+      margin: 0 0 30px;
+      text-align: center; }
+  
+    .button {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;}
+
+  
