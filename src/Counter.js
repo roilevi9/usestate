@@ -1,5 +1,4 @@
 import { useState , useEffect} from "react";
-//import './Counter.css';
 
 function Counter(props) {
     const [count, setCount] = useState(1)
